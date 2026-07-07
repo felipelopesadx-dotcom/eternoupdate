@@ -1,1 +1,119 @@
-
+{
+  "Version": "1.0.0",
+  "Files": [
+    {
+      "Path": "d3dcompiler_47.dll",
+      "Size": 4524696,
+      "Sha256": "44422E6936DC72B7AC5ED16BB8BCAE164B7554513E52EFB66A3E942CEC328A47",
+      "Url": "https://github.com/felipelopesadx-dotcom/eternoupdate/releases/download/v1.0.0/d3dcompiler_47.dll"
+    },
+    {
+      "Path": "dmoprotect.dll",
+      "Size": 4795224,
+      "Sha256": "2D0B5C16CF546AB1B2F4B285E542BEAF390208EB0897D31283393F447BABC333",
+      "Url": "https://github.com/felipelopesadx-dotcom/eternoupdate/releases/download/v1.0.0/dmoprotect.dll"
+    },
+    {
+      "Path": "ffmpeg.dll",
+      "Size": 2812416,
+      "Sha256": "6120F574E90B83A96702CFC93E8316FAD4EA22669CCA19E2E49B0DB8B5F7E4B1",
+      "Url": "https://github.com/felipelopesadx-dotcom/eternoupdate/releases/download/v1.0.0/ffmpeg.dll"
+    },
+    {
+      "Path": "glew32.dll",
+      "Size": 341504,
+      "Sha256": "68293640F751015BF71AF784D10C53DB9506A3A4A992FCEF22EC3AF5084A35FD",
+      "Url": "https://github.com/felipelopesadx-dotcom/eternoupdate/releases/download/v1.0.0/glew32.dll"
+    },
+    {
+      "Path": "icudtl.dat",
+      "Size": 10518624,
+      "Sha256": "933A56D356E5DD6B5B9FA5181D657DC0C4D4FF62FFD3547290A6CF6BBB13245E",
+      "Url": "https://github.com/felipelopesadx-dotcom/eternoupdate/releases/download/v1.0.0/icudtl.dat"
+    },
+    {
+      "Path": "license.lic",
+      "Size": 320,
+      "Sha256": "DB99D826CFA059ACC8C93AA7CF63FD297DE647CD203A758012A31458E8DC0B2D",
+      "Url": "https://github.com/felipelopesadx-dotcom/eternoupdate/releases/download/v1.0.0/license.lic"
+    },
+    {
+      "Path": "Main.exe",
+      "Size": 11360256,
+      "Sha256": "F6BA71A42B79E06893950C3E295834BF536AC7B3E2AFA9594E97669BD1C4B1A2",
+      "Url": "https://github.com/felipelopesadx-dotcom/eternoupdate/releases/download/v1.0.0/Main.exe"
+    },
+    {
+      "Path": "Scripts/1024x768.reg",
+      "Size": 232,
+      "Sha256": "5C1C095C3B65032D4D3608B1286D36CDC218DE0B02A4D79A90E8FF8B2DC5DDD5",
+      "Url": "https://github.com/felipelopesadx-dotcom/eternoupdate/releases/download/v1.0.0/Scripts/1024x768.reg"
+    },
+    {
+      "Path": "Scripts/LangChinase.reg",
+      "Size": 109,
+      "Sha256": "11FBEF2C3B987B6AFD221B3A3EF44EEDE1E9A3BE0D07201CE84783AD85F5C13C",
+      "Url": "https://github.com/felipelopesadx-dotcom/eternoupdate/releases/download/v1.0.0/Scripts/LangChinase.reg"
+    },
+    {
+      "Path": "Scripts/LangEnglish.reg",
+      "Size": 109,
+      "Sha256": "EC1976ADC4D5AFDBA51C9B213DE8D5B46D5F3822509BC9E4E802B9AF68D67C05",
+      "Url": "https://github.com/felipelopesadx-dotcom/eternoupdate/releases/download/v1.0.0/Scripts/LangEnglish.reg"
+    },
+    {
+      "Path": "Scripts/LangKorean.reg",
+      "Size": 109,
+      "Sha256": "11FBEF2C3B987B6AFD221B3A3EF44EEDE1E9A3BE0D07201CE84783AD85F5C13C",
+      "Url": "https://github.com/felipelopesadx-dotcom/eternoupdate/releases/download/v1.0.0/Scripts/LangKorean.reg"
+    },
+    {
+      "Path": "Scripts/LangPor.reg",
+      "Size": 109,
+      "Sha256": "F8B7F0B59A80F5BB57D9648B901B37AF073139299D9487A06A0728D601663809",
+      "Url": "https://github.com/felipelopesadx-dotcom/eternoupdate/releases/download/v1.0.0/Scripts/LangPor.reg"
+    },
+    {
+      "Path": "Scripts/LangPortuguese - copia.reg",
+      "Size": 109,
+      "Sha256": "F8B7F0B59A80F5BB57D9648B901B37AF073139299D9487A06A0728D601663809",
+      "Url": "https://github.com/felipelopesadx-dotcom/eternoupdate/releases/download/v1.0.0/Scripts/LangPortuguese - copia.reg"
+    },
+    {
+      "Path": "Scripts/LangPortuguese.reg",
+      "Size": 109,
+      "Sha256": "F8B7F0B59A80F5BB57D9648B901B37AF073139299D9487A06A0728D601663809",
+      "Url": "https://github.com/felipelopesadx-dotcom/eternoupdate/releases/download/v1.0.0/Scripts/LangPortuguese.reg"
+    },
+    {
+      "Path": "Scripts/OpenGLState.reg",
+      "Size": 234,
+      "Sha256": "76CCA51F3139D11469AEDA4C9AF8B7DB726EDA0191BF957C753FB1618F69ADE8",
+      "Url": "https://github.com/felipelopesadx-dotcom/eternoupdate/releases/download/v1.0.0/Scripts/OpenGLState.reg"
+    },
+    {
+      "Path": "Scripts/Sound\u0026MusicOFF.reg",
+      "Size": 350,
+      "Sha256": "4E287AF7E731FF4D0AAB6080C19DBF963ABA240D8548FA18BBEC5A8367F28288",
+      "Url": "https://github.com/felipelopesadx-dotcom/eternoupdate/releases/download/v1.0.0/Scripts/Sound\u0026MusicOFF.reg"
+    },
+    {
+      "Path": "Scripts/Sound\u0026MusicON.reg",
+      "Size": 350,
+      "Sha256": "D2B57077A5B657EC070AB94A48ADFB3BE3DBECF6E4768B365FEBB80D22F61E91",
+      "Url": "https://github.com/felipelopesadx-dotcom/eternoupdate/releases/download/v1.0.0/Scripts/Sound\u0026MusicON.reg"
+    },
+    {
+      "Path": "Scripts/_fullscreen_mode.reg",
+      "Size": 236,
+      "Sha256": "97EB2BAEF194890DAAAF5C8CABD9AF5661CF2B49677D4F0984C5DBC81113EE4E",
+      "Url": "https://github.com/felipelopesadx-dotcom/eternoupdate/releases/download/v1.0.0/Scripts/_fullscreen_mode.reg"
+    },
+    {
+      "Path": "Scripts/_win_mode.reg",
+      "Size": 236,
+      "Sha256": "7BDE0CCB936117BE69CC009CB8227C82023B71857BF9422954F4724B956F1723",
+      "Url": "https://github.com/felipelopesadx-dotcom/eternoupdate/releases/download/v1.0.0/Scripts/_win_mode.reg"
+    }
+  ]
+}
