@@ -44,6 +44,18 @@
       "Url": "https://raw.githubusercontent.com/felipelopesadx-dotcom/eternoupdate/main/releases/downloads/1.0.0/Main.exe"
     },
     {
+      "Path": "MuEterno.exe",
+      "Size": 151552,
+      "Sha256": "487C88B56C688F2F8793EB3F4644E4E46C417D98A4B0D6D2735403D77084A330",
+      "Url": "https://raw.githubusercontent.com/felipelopesadx-dotcom/eternoupdate/main/releases/downloads/1.0.0/MuEterno.exe"
+    },
+    {
+      "Path": "TESTE123456.txt",
+      "Size": 232,
+      "Sha256": "64600552D245519CF2A4F453BEF6CB70947293C5AA28F8AEC77D170CA143BB75",
+      "Url": "https://raw.githubusercontent.com/felipelopesadx-dotcom/eternoupdate/main/releases/downloads/1.0.0/TESTE123456.txt"
+    },
+    {
       "Path": "Scripts/1024x768.reg",
       "Size": 232,
       "Sha256": "5C1C095C3B65032D4D3608B1286D36CDC218DE0B02A4D79A90E8FF8B2DC5DDD5",
